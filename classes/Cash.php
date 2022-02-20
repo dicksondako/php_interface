@@ -10,7 +10,7 @@ class Cash implements PaymentInterface
 
 		public function payNow()
 		{
-			var_dump("In Cash");
+			var_dump("Payment Using Cash interface");
 		}
 
 }

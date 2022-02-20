@@ -11,7 +11,7 @@ Class OnlineMerchant implements PaymentInterface
 		public function payNow()
 		{
 
-				var_dump("In Online Merchant");
+				var_dump("Payment Using Online Merchant interface");
 			
 		}
 

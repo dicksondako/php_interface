@@ -16,9 +16,6 @@
 	use Interface\Classes\Card;
 	use Interface\Classes\Cash;
 	
-
-
-
  ?>
 
 

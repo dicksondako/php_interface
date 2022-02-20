@@ -13,13 +13,13 @@ class BankTransfer implements PaymentInterface
 		public function payNow()
 		{
 
-			var_dump("In Bank transfer");
+			var_dump("Payment Using Bank Transfer interface");
 
 		}
 
-		public function processPayment(){
+		// public function processPayment(){
 
-			var_dump("process Payment");
-		}
+		// 	var_dump("process Payment");
+		// }
 
 }

@@ -12,7 +12,7 @@ class Card implements PaymentInterface
 		public function payNow()
 		{
 
-			var_dump("In Card");
+			var_dump("Payment Using Card interface");
 
 		}
 
