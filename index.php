@@ -28,7 +28,13 @@
 </head>
 <body>
 <?php 
+	//create a list of the different payment method
 
+	//randomly select from the list.
+
+	//The randomly selected valect should be the User Selected Payment Type
+
+	
 	$payment_type = new Cash;
 	//var_dump($payment_type);
 	$product_payment = new ProductPayment();

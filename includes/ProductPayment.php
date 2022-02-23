@@ -9,7 +9,9 @@ require_once 'classes/Cash.php';
 require_once 'classes/BankTransfer.php';
 
 use Interface\Includes\PaymentInterface;
+
 use Interface\Classes\OnlineMerchant;
+
 use Interface\Classes\Card;
 use Interface\Classes\Cash;
 use Interface\Classes\BankTransfer;
